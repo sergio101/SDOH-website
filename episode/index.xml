@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Episodes on Six Degrees of Ohio</title>
-    <link>http://sixdegreesofohio.com/episode/</link>
+    <link>http://localhost:1313/episode/</link>
     <description>Recent content in Episodes on Six Degrees of Ohio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://sixdegreesofohio.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/episode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Episode 189</title>
-      <link>http://sixdegreesofohio.com/episode/episode-189/</link>
+      <link>http://localhost:1313/episode/episode-189/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sixdegreesofohio.com/episode/episode-189/</guid>
+      <guid>http://localhost:1313/episode/episode-189/</guid>
       <description>&lt;h2 id=&#34;new-music-from&#34;&gt;New music From&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blue Herons&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;featured-artists&#34;&gt;Featured Artists&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blue Herons&lt;/li&gt;&#xA;&lt;li&gt;Broken Transmitter&lt;/li&gt;&#xA;&lt;li&gt;Cousin Joes Band&lt;/li&gt;&#xA;&lt;li&gt;H Edward Currant&lt;/li&gt;&#xA;&lt;li&gt;Pillbugs&lt;/li&gt;&#xA;&lt;li&gt;The Stepford Five&lt;/li&gt;&#xA;&lt;li&gt;Tracy Marie&lt;/li&gt;&#xA;&lt;li&gt;Willie Phoenix&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;episode-notes&#34;&gt;Episode Notes&lt;/h2&gt;&#xA;&lt;h2 id=&#34;playlist&#34;&gt;Playlist&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Blue Herons - Autumn Leaves&lt;/li&gt;&#xA;&lt;li&gt;The Blue Herons - The Blue Herons Turned To Stone&lt;/li&gt;&#xA;&lt;li&gt;Pillbugs - Larry In The Sea With Daffodils&lt;/li&gt;&#xA;&lt;li&gt;Pillbugs - Up And Down On Your Merry-Go-Round&lt;/li&gt;&#xA;&lt;li&gt;H Edward Currant - Southern Concussion&lt;/li&gt;&#xA;&lt;li&gt;H Edward Currant - Lies&lt;/li&gt;&#xA;&lt;li&gt;The Stepford Five - Need To Know&lt;/li&gt;&#xA;&lt;li&gt;The Stepford Five - Overcoming Eve&lt;/li&gt;&#xA;&lt;li&gt;Willie Phoenix - Boom Blam Boom&lt;/li&gt;&#xA;&lt;li&gt;Willie Phoenix - Candy&amp;rsquo;s Left My Room&lt;/li&gt;&#xA;&lt;li&gt;Broken Transmitter - Premonitions&lt;/li&gt;&#xA;&lt;li&gt;Broken Transmitter - Phoenix, Please&lt;/li&gt;&#xA;&lt;li&gt;Cousin Joes Band - Hunter&lt;/li&gt;&#xA;&lt;li&gt;Cousin Joes Band - Final Nail&lt;/li&gt;&#xA;&lt;li&gt;Tracy Marie - Stick For The Cure&lt;/li&gt;&#xA;&lt;li&gt;Tracy Marie - One Fine Day&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;</description>
     </item>
   </channel>
