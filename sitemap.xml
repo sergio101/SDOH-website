@@ -2,22 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/page/about-us/</loc>
+    <loc>http://sixdegreesofohio.com/a/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://sixdegreesofohio.com/page/about-us/</loc>
   </url><url>
-    <loc>http://localhost:1313/episode/episode-189/</loc>
+    <loc>http://sixdegreesofohio.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/episode/</loc>
+    <loc>http://sixdegreesofohio.com/episode/episode-189/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/how-to-submit/</loc>
+    <loc>http://sixdegreesofohio.com/episode/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/how-to-tune-in/</loc>
+    <loc>http://sixdegreesofohio.com/page/how-to-submit/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>http://sixdegreesofohio.com/page/how-to-tune-in/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://sixdegreesofohio.com/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://sixdegreesofohio.com/</loc>
+  </url><url>
+    <loc>http://sixdegreesofohio.com/tags/</loc>
   </url>
 </urlset>
