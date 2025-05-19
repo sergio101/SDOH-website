@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sixdegreesofohio.com/sitemap.xml
