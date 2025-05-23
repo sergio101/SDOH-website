@@ -24,4 +24,22 @@
 &lt;p>This is &lt;name> from &lt;city>, and you&amp;rsquo;re listening to Six Degrees of Ohio on Wadsworth Community Radio&lt;/p>&lt;/blockquote>
 &lt;p>Remember! This is just a suggestion, and not a script. Be creative! Go nuts! Just remember that we must comply with FCC rules, so no cussing.&lt;/p>
 &lt;p>Here are a few examples:&lt;/p>
-&lt;p>&lt;strong>Cara from Seaside Holiday&lt;/strong>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Cara from Seaside Holiday&lt;/strong>
+&lt;audio id="audio-8511cfc0f84db371b7a44d3547cef992" controls>
+ &lt;source src="https://six-degrees-podcast.nyc3.cdn.digitaloceanspaces.com/shoutouts/SDOH-shoutout-Cara.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+&lt;/audio>
+
+&lt;script>
+ (function() {
+ const audioId = "audio-8511cfc0f84db371b7a44d3547cef992";
+ const startTime = "0";
+ const audio = document.getElementById(audioId);
+
+ if (audio) {
+ audio.addEventListener('loadedmetadata', function () {
+ audio.currentTime = startTime;
+ });
+ }
+ })();
+&lt;/script>&lt;/p></description></item></channel></rss>

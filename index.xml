@@ -71,7 +71,23 @@
 &lt;li>Tony Lang Band&lt;/li>
 &lt;/ul>
 &lt;h1 id="audio-and-show-notes">Audio and show notes&lt;/h1>
-&lt;p>Please note that the audio, complete notes, and playlist will not be available for this episode until May 31.&lt;/p></description></item><item><title>How to Submit</title><link>http://sixdegreesofohio.com/page/how-to-submit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://sixdegreesofohio.com/page/how-to-submit/</guid><description>&lt;p>I host a radio show on Wadsworth Community Radio each Saturday night at 8PM Ohio time. I showcase local music from or related to the Ohio area. We play an hour of music that you might not find anywhere else.&lt;/p>
+&lt;p>Please note that the audio, complete notes, and playlist will not be available for this episode until May 31.&lt;/p></description></item><item><title>Episode 191</title><link>http://sixdegreesofohio.com/episode/episode-191/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://sixdegreesofohio.com/episode/episode-191/</guid><description>&lt;p>&lt;a href="http://sixdegreesofohio.com/page/how-to-tune-in/">How to Tune in&lt;/a>&lt;/p>
+&lt;h1 id="new-music-from">New music From&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://chrisdonleymusic.bandcamp.com/album/french-donkey-an-acoustic-tribute-to-faith-no-more-2025">French Donkey&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="featured-artists">Featured Artists&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Brian Bacon&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Diana Chittester&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>French Donkey&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Jimi Vincent&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Joy Electric&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Lilieae&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Mike Farley Band&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h1 id="audio-and-show-notes">Audio and show notes&lt;/h1>
+&lt;p>Please note that the audio, complete notes, and playlist will not be available for this episode until June 7.&lt;/p></description></item><item><title>How to Submit</title><link>http://sixdegreesofohio.com/page/how-to-submit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://sixdegreesofohio.com/page/how-to-submit/</guid><description>&lt;p>I host a radio show on Wadsworth Community Radio each Saturday night at 8PM Ohio time. I showcase local music from or related to the Ohio area. We play an hour of music that you might not find anywhere else.&lt;/p>
 &lt;p>II am constantly on the lookout for new material:&lt;/p>
 &lt;ul>
 &lt;li>Recordings of bands from or related to Ohio. Send finished/mastered recordings, no demos.&lt;/li>
@@ -101,4 +117,22 @@
 &lt;p>This is &lt;name> from &lt;city>, and you&amp;rsquo;re listening to Six Degrees of Ohio on Wadsworth Community Radio&lt;/p>&lt;/blockquote>
 &lt;p>Remember! This is just a suggestion, and not a script. Be creative! Go nuts! Just remember that we must comply with FCC rules, so no cussing.&lt;/p>
 &lt;p>Here are a few examples:&lt;/p>
-&lt;p>&lt;strong>Cara from Seaside Holiday&lt;/strong>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Cara from Seaside Holiday&lt;/strong>
+&lt;audio id="audio-8511cfc0f84db371b7a44d3547cef992" controls>
+ &lt;source src="https://six-degrees-podcast.nyc3.cdn.digitaloceanspaces.com/shoutouts/SDOH-shoutout-Cara.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+&lt;/audio>
+
+&lt;script>
+ (function() {
+ const audioId = "audio-8511cfc0f84db371b7a44d3547cef992";
+ const startTime = "0";
+ const audio = document.getElementById(audioId);
+
+ if (audio) {
+ audio.addEventListener('loadedmetadata', function () {
+ audio.currentTime = startTime;
+ });
+ }
+ })();
+&lt;/script>&lt;/p></description></item></channel></rss>
