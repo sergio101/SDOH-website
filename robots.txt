@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://sixdegreesofohio.com/sitemap.xml
+Sitemap: https://sixdegreesofohio.com/sitemap.xml
